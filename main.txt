@@ -1,3 +1,4 @@
 Hello world
 Global git_hub say Hi
 Loacl git_hub say Hello
+Local branch_b say Hello both friend
